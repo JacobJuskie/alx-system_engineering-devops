@@ -6,3 +6,4 @@
 4. Hidden files
 5. Ilove numbers
 6. Welcome
+7. Betty in first directory

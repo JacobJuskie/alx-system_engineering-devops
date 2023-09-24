@@ -7,3 +7,5 @@
 5. Ilove numbers
 6. Welcome
 7. Betty in first directory
+8. Bye bye betty
+9. Bye bye my first directory

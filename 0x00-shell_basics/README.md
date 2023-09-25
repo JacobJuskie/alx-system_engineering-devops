@@ -11,3 +11,4 @@
 9. Bye bye my first directory
 10. Back to the future
 11. 11-list
+12. File type
